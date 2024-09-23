@@ -1,0 +1,260 @@
+{
+    "block1": [
+        {
+            "name": "Tyler",
+            "github": "https://github.com/ta1coding",
+            "wallet": "",
+            "website": "",
+            "code": 1
+        },
+        {
+            "name": "Hugh C.",
+            "github": "https://github.com/hguh-cheng",
+            "wallet": "",
+            "website": "",
+            "code": 1
+        },
+        {
+            "name": "Hugh A.",
+            "github": "https://github.com/hamshen1",
+            "wallet": "",
+            "website": "",
+            "code": 1
+        },
+        {
+            "name": "Roen",
+            "github": "https://github.com/rbeiley",
+            "wallet": "",
+            "website": "",
+            "code": 1
+        },
+        {
+            "name": "Brody",
+            "github": "https://github.com/BrodyEddyHW",
+            "wallet": "",
+            "website": "",
+            "code": 1
+        },
+        {
+            "name": "Anthony",
+            "github": "https://github.com/agerencher",
+            "wallet": "",
+            "website": "",
+            "code": 1
+        },
+        {
+            "name": "Ian",
+            "github": "https://github.com/ilieberman1",
+            "wallet": "",
+            "website": "",
+            "code": 1
+        },
+        {
+            "name": "Christian",
+            "github": "https://github.com/cmsYeehee",
+            "wallet": "",
+            "website": "",
+            "code": 1
+        },
+        {
+            "name": "Bjorn",
+            "github": "https://github.com/bwalthers2",
+            "wallet": "",
+            "website": "",
+            "code": 1
+        },
+        {
+            "name": "Ryan",
+            "github": "https://github.com/ryou1011",
+            "wallet": "",
+            "website": "",
+            "code": 1
+        },
+        {
+            "name": "Luca",
+            "github": "https://github.com/Luca-Umekubo",
+            "wallet": "",
+            "website": "",
+            "code": 1
+        }
+    ],
+    "block3": [
+        {
+            "name": "Michael",
+            "github": "https://github.com/fishsticks89",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        },
+        {
+            "name": "Collin",
+            "github": "https://github.com/Cdog135",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        },
+        {
+            "name": "Matthew",
+            "github": "https://github.com/mcommons33",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        },
+        {
+            "name": "Pranav",
+            "github": "https://github.com/piyer1",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        },
+        {
+            "name": "Riyan",
+            "github": "https://github.com/RiyanBK",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        },
+        {
+            "name": "Olivia",
+            "github": "https://github.com/okonghw",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        },
+        {
+            "name": "Nathaniel",
+            "github": "https://github.com/nlevin11",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        },
+        {
+            "name": "Edwin",
+            "github": "https://github.com/eluhnow1",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        },
+        {
+            "name": "Jacob",
+            "github": "https://github.com/Jukkobee",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        },
+        {
+            "name": "Milo",
+            "github": "https://github.com/MiloMessinger",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        },
+        {
+            "name": "Sean",
+            "github": "https://github.com/sozalpasan1",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        },
+        {
+            "name": "Aviv",
+            "github": "https://github.com/avivpilipski",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        },
+        {
+            "name": "Kyara",
+            "github": "https://github.com/HWKyaraZhou",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        },
+        {
+            "name": "Dylan",
+            "github": "https://github.com/dyltsai",
+            "wallet": "",
+            "website": "",
+            "code": 3
+        }
+    ],
+    "block7": [
+        {
+            "name": "Matthew",
+            "github": "https://github.com/19matthewa",
+            "wallet": "",
+            "website": "",
+            "code": 7
+        },
+        {
+            "name": "Gio",
+            "github": "https://github.com/crispyBrownWork",
+            "wallet": "",
+            "website": "",
+            "code": 7
+        },
+        {
+            "name": "Jonah",
+            "github": "https://github.com/JonahB4",
+            "wallet": "",
+            "website": "",
+            "code": 7
+        },
+        {
+            "name": "Connor",
+            "github": "https://github.com/CONNORK10",
+            "wallet": "",
+            "website": "",
+            "code": 7
+        },
+        {
+            "name": "Chance",
+            "github": "https://github.com/ChaKrenz",
+            "wallet": "",
+            "website": "",
+            "code": 7
+        },
+        {
+            "name": "Declan",
+            "github": "https://github.com/astronomite2",
+            "wallet": "",
+            "website": "",
+            "code": 7
+        },
+        {
+            "name": "Tyler",
+            "github": "https://github.com/TylerPark2",
+            "wallet": "",
+            "website": "",
+            "code": 7
+        },
+        {
+            "name": "Ace",
+            "github": "https://github.com/asCarrot",
+            "wallet": "",
+            "website": "",
+            "code": 7
+        },
+        {
+            "name": "Sky",
+            "github": "https://github.com/skystub",
+            "wallet": "",
+            "website": "",
+            "code": 7
+        },
+        {
+            "name": "Manos",
+            "github": "https://github.com/mvourgourakis1",
+            "wallet": "",
+            "website": "",
+            "code": 7
+        },
+        {
+            "name": "John",
+            "github": "https://github.com/john-xu-school",
+            "wallet": "",
+            "website": "",
+            "code": 7
+        }
+    ]
+}
